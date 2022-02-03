@@ -5,7 +5,7 @@
 
 
 <h1>
-    CONTATO
+    HOSPEDAGEM
 </h1>
 
 

@@ -1,17 +1,13 @@
 <?php
 
 
-use App\Http\Controllers\inicioController;
-use App\Http\Controllers\quemSomosController;
-use App\Http\Controllers\programaMeuAmbienteController;
-use App\Http\Controllers\portalDeEducacaoAmbientalController;
-use App\Http\Controllers\qualidadeAmbientalController;
-use App\Http\Controllers\servicosController;
-use App\Http\Controllers\noticiasController;
-use App\Http\Controllers\denunciaController;
-use App\Http\Controllers\contatoController;
-use App\Http\Controllers\perguntasERespostasController;
-use App\Http\Controllers\transparenciaController;
+use App\Http\Controllers\InicioController;
+use App\Http\Controllers\NoticiasController;
+use App\Http\Controllers\PontosTuristicosController;
+use App\Http\Controllers\HospedagemController;
+use App\Http\Controllers\ContatoController;
+
+
 
 
 use Illuminate\Support\Facades\Route;
@@ -36,4 +32,4 @@ Route::get('/pontos-turisticos', [PontosTuristicosController::class,'pontosTuris
 
 Route::get('/hospedagem', [HospedagemController::class,'hospedagem'])->name('hospedagem');
 
-Route::get('/contato', [contatoController::class,'contato'])->name('contato');
+Route::get('/contato', [ContatoController::class,'contato'])->name('contato');

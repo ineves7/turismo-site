@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class HospedagemController extends Controller
 {
-    public function contato(){
+    public function hospedagem(){
         return view('site.hospedagem');
     }
 }

@@ -5,7 +5,7 @@
 
 
 <h1>
-    CONTATO
+    PONTOS TURISTICOS
 </h1>
 
 

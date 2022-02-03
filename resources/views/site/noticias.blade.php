@@ -5,7 +5,7 @@
 
 
 <h1>
-    CONTATO
+    NOTICIAS
 </h1>
 
 
