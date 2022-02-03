@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class HospedagemController extends Controller
 {
     public function hospedagem(){
-        return view('site.hospedagem');
+        return view('web.hospedagem');
     }
 }

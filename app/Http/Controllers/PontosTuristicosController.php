@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class PontosTuristicosController extends Controller
 {
     public function pontosTuristicos(){
-        return view('site.pontos-turisticos');
+        return view('web.pontos-turisticos');
     }
 }
