@@ -1,15 +1,13 @@
-
-
 $ = jQuery = window.$ = window.jQuery = require('jquery');
 
-require('bootstrap/dist/js/bootstrap');
+require('bootstrap/dist/js/bootstrap.bundle.min.js');
+require('jquery.easing/jquery.easing.min.js');
+require('jquery-sticky/jquery.sticky.js');
+require('venobox/venobox/venobox.min.js');
+require('waypoints/lib/jquery.waypoints.min.js');
+require('counterup/jquery.counterup.min.js');
+require('isotope-layout/dist/isotope.pkgd.min.js');
 require('@popperjs/core');
-require('jquery.easing/jquery.easing');
-require('jquery-sticky/jquery.sticky');
-require('venobox/venobox/venobox');
-require('waypoints/lib/jquery.waypoints');
-require('counterup/jquery.counterup');
-require('isotope-layout/dist/isotope.pkgd');
 
 import AOS from 'aos';
 

@@ -11,15 +11,16 @@
 
     <!-- Favicons -->
     <link href="{{ asset('/img/favicon.png') }}" rel="icon">
-    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link
         href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i,900"
         rel="stylesheet">
-    <link rel="stylesheet" href="{{ asset('css/icofont.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/icofont.css') }}">
+
+    <!-- Vendor CSS Files -->
+    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+
 </head>
 
 <body>

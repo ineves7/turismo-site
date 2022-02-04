@@ -17,7 +17,7 @@
         "lodash": "^4.17.19",
         "popper.js": "^1.16.1",
         "postcss": "^8.1.14",
-        "resolve-url-loader": "^4.0.0",
+        "resolve-url-loader": "^5.0.0",
         "sass": "^1.32.11",
         "sass-loader": "^11.0.1"
     },
@@ -28,6 +28,7 @@
         "aos": "^2.3.4",
         "boxicons": "^2.0.9",
         "counterup": "^1.0.2",
+        "font-awesome": "^4.7.0",
         "iconfont": "^0.4.1",
         "isotope-layout": "^3.0.6",
         "jquery-sticky": "^1.0.4",
