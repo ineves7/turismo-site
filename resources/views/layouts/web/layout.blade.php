@@ -19,7 +19,7 @@
         rel="stylesheet">
 
     <!-- Vendor CSS Files -->
-    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+    <link rel="stylesheet" href="{{ mix('css/app.css') }}">
 
 </head>
 
@@ -37,7 +37,6 @@
 
     @component('components.scripts')
     @endcomponent
-
 </body>
 
 </html>

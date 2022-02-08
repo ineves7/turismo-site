@@ -11,9 +11,9 @@
           <div class="carousel-item active" style="background-image: url('{{url('/img/slide/slide-1.jpg')}}');">
             <div class="carousel-container">
               <div class="carousel-content container">
-                <h2 class="animated fadeInDown">Welcome to <span>Mamba</span></h2>
+                <h2 class="animated fadeInDown">Viver Bem é a Nossa <span>Praia!</span></h2>
                 <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a>
+                <!--<a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a> -->
               </div>
             </div>
           </div>

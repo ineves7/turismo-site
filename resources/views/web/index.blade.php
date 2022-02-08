@@ -102,7 +102,7 @@
 
           <div class="col-lg-3 col-md-6 text-center" data-aos="fade-up">
             <div class="count-box">
-              <i class="icofont-simple-smile" style="color: #20b38e;"></i>
+              <i class="fa-solid fa-face-smile" style="color: #20b38e;"></i>
               <span data-toggle="counter-up">232</span>
               <p>Happy Clients</p>
             </div>

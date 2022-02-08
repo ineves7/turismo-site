@@ -1,4 +1,8 @@
 {
-    "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
+    "/js/app.js": "/js/app.js?id=ce4183c37038082faf18",
+    "/css/app.css": "/css/app.css?id=841e6301fd848ba195b2",
+    "/img/about.jpg": "/img/about.jpg?id=6787324a3d09d6e376be",
+    "/img/apple-touch-icon.png": "/img/apple-touch-icon.png?id=49ae81bd17b0bfab8060",
+    "/img/favicon.png": "/img/favicon.png?id=3ef500abc938e4f0b7b8",
+    "/img/photothumb.db": "/img/photothumb.db?id=402cc060c6664118d7d5"
 }
