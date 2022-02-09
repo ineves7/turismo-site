@@ -21,7 +21,7 @@
         "sass-loader": "^8.0.2"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^5.15.4",
+        "@fortawesome/fontawesome-free": "^6.0.0",
         "@icon/icofont": "^1.0.1-alpha.1",
         "@popperjs/core": "^2.10.2",
         "animate.css": "^4.1.1",
