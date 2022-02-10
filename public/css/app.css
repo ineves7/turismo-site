@@ -16344,6 +16344,10 @@ img.vbox-figlio{
 # General
 --------------------------------------------------------------*/
 :root {
+  --topbg: #085394;
+  --topfontcolor: #fff;
+  --menucolor: #2d9ae2df;
+  --menuhover: #c1fb38;
   --sectionbg: #ddeefa88;
   --bgteam: #fff;
   --branco: #fff;
@@ -16420,7 +16424,7 @@ h6,
   # Top Bar
   --------------------------------------------------------------*/
 #topbar {
-  background: var(--branco);
+  background: var(--topbg);
   padding: 10px 0;
   border-bottom: 1px solid #eee;
   font-size: 14px;
@@ -16428,17 +16432,17 @@ h6,
 
 #topbar .contact-info a {
   line-height: 1;
-  color: var(--cor1);
+  color: var(--branco);
   transition: 0.3s;
   text-decoration: none;
 }
 
 #topbar .contact-info a:hover {
-  color: var(--buttoncolor);
+  color: var(--menuhover);
 }
 
 #topbar .contact-info i {
-  color: var(--buttoncolor);
+  color: var(--branco);
   padding: 4px;
 }
 
@@ -16448,7 +16452,7 @@ h6,
 }
 
 #topbar .social-links a {
-  color: var(--boxmemberteam);
+  color: var(--branco);
   padding: 4px 12px;
   display: inline-block;
   line-height: 1px;
@@ -16456,7 +16460,7 @@ h6,
 }
 
 #topbar .social-links a:hover {
-  color: var(--buttoncolor);
+  color: var(--menuhover);
 }
 
 /*--------------------------------------------------------------
@@ -16467,7 +16471,7 @@ h6,
   transition: all 0.5s;
   transition: all 0.5s;
   padding: 10px 0;
-  background: var(--branco);
+  background: var(--menucolor);
   z-index: 997;
 }
 
@@ -16487,7 +16491,7 @@ h6,
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: var(--cor6);
+  color: var(--branco);
   text-decoration: none;
 }
 
@@ -16517,7 +16521,7 @@ h6,
 .nav-menu a {
   display: block;
   position: relative;
-  color: var(--cor2);
+  color: var(--branco);
   padding: 12px 15px;
   transition: 0.3s;
   font-family: "Open Sans", sans-serif;
@@ -16527,7 +16531,7 @@ h6,
 .nav-menu a:hover,
 .nav-menu .active > a,
 .nav-menu li:hover > a {
-  color: var(--buttoncolor);
+  color: var(--menuhover);
   text-decoration: none;
 }
 
@@ -17440,7 +17444,7 @@ section {
   # Contact Us
   --------------------------------------------------------------*/
 .contact .info-box {
-  color: var(--cor1);
+  color: var(--branco);
   text-align: center;
   box-shadow: 0 0 30px #d6d7d899;
   padding: 20px 0 30px 0;

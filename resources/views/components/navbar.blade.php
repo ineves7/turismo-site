@@ -2,8 +2,8 @@
 <section id="topbar" class="d-none d-lg-block">
     <div class="container clearfix">
       <div class="contact-info float-start">
-        <i class="fa fa-envelope"></i><a href="">site.com.br</a>
-        <i class="fab fa-whatsapp"></i> 22 98765 4321
+        <i class="fa fa-envelope"></i><a href="#">site.com.br</a>
+        <i class="fab fa-whatsapp"></i> <a href="#">22 98765 4321</a>
       </div>
       <div class="social-links float-end">
         <a href="" class="facebook"><i class="fab fa-facebook-f"></i></a>
