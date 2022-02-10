@@ -54,13 +54,15 @@
         </div>
     </div>
 
-       <!-- <div class="container">
-        <div class="copyright">
-            &copy; Copyright <strong><span>Mamba</span></strong>. All Rights Reserved
-        </div>
+        <div class="container">
+            <div class="copyright">
+                <p>
+                    &copy; Copyright <strong><span>Mamba</span></strong>. All Rights Reserved
+                </p>
+            </div>
         <div class="credits">
             <p> </p>
-        </div> -->
+        </div>
     </div>
 </footer>
 
