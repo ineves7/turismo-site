@@ -13,7 +13,7 @@
   </section>
 
     <!-- ======= Header ======= -->
-    <header id="header">
+    <header id="header" style="border-bottom: 1px solid #eee">
       <div class="container">
 
         <div class="logo float-start">
